@@ -38,3 +38,15 @@ function foo(n: number): number {
 ```
 
 The base case is super important!!!! You don't want to recurse infinitely. Unlike with an iterable you have to know what the first value is going to be.
+
+## Three Steps
+
+1. pre
+
+   - You can do something before you recurse
+   - In this case it's n +
+
+2. recurse
+   - We actually call the function
+3. post
+   - We can do something else after recursing
