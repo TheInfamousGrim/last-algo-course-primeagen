@@ -5,6 +5,9 @@ We shall find the best path.
 ## Contents
 
 1. [Maze Solver](#maze-solver)
+2. [Base Case](#base-case)
+3. [Recursion](#recursion)
+4. [Putting It All Together](#putting-it-all-together)
 
 ## Maze Solver
 
